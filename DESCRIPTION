@@ -1,6 +1,6 @@
 Package: semantic.assets
 Type: Package
-Title: Assets For 'Shiny.semantic'
+Title: Assets for 'shiny.semantic'
 Version: 1.0.0
 Authors@R:  c(
     person("Jakub", "Nowicki", role = c("aut", "cre"), email = "opensource+kuba@appsilon.com")

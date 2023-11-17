@@ -1,3 +1,10 @@
+## Resubmission
+
+> The Title field should be in title case. Current version is: Assets For 'Shiny.semantic'
+> In title case and corret spelling of the cited package name that is: Assets for 'shiny.semantic'
+
+We have updated the title.
+
 ## Author comment
 
 I understand that the package size exceeds CRAN's submission limit. The purpose of this submission is to reduce the size of the main package, shiny.semantic, by offloading all necessary assets.
