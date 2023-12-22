@@ -5,7 +5,7 @@
 #'
 #' @import htmlwidgets
 #'
-#' @param ui UI, which will be wraped in an htmlwidget.
+#' @param ui UI, which will be wrapped in an htmlwidget.
 #' @param width Fixed width for widget (in css units). The default is NULL,
 #' which results in intelligent automatic sizing.
 #' @param height Fixed height for widget (in css units). The default is NULL,
